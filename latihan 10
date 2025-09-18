@@ -1,0 +1,3 @@
+nama  = ["azka", "samsul", "leo", "shaladin", "kela"]
+nama.reverse()
+print(nama)
