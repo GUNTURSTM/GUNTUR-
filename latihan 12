@@ -1,0 +1,7 @@
+buah = ("apel", "mangga", "jeruk", "pisang")
+print("elemen pertama", buah[0])
+print("elemen terakhir", [-1])
+
+print("dua elemen pertama:", buah[0:2])
+
+print("jumlah buah:", len(buah))
