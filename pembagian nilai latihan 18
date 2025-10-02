@@ -1,4 +1,4 @@
-nilai = int(input("masukkan nilai anda :"))
+nilai = int(input("masukkan nilai anda = "))
 if nilai >= 91:
 	huruf = "A"
 elif nilai >= 81:
@@ -8,4 +8,4 @@ elif nilai >= 75:
 else:
 	huruf = "D"
 	
-print("nilai ", huruf)
+print("nilai anda = ", huruf)
